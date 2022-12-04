@@ -47,7 +47,20 @@ Group(ncbi，PK、CO、DC)
 ### 已发表文章
  1 Systematic analysis of gut microbiome reveals the role of bacterial folate and homocysteinemetabolism in Parkinson’s disease    https://ars.els-cdn.com/content/image/1-s2.0-S2211124721001212-mmc1.pdf 组成分析 
 2 Title: Gut microbiome-based secondary metabolite biosynthetic gene clusters detection in Parkinson’s disease 
-3 Carnelian uncovers hidden functional patterns across diverse study populations from whole metagenome sequencing reads
+3 Carnelian uncovers hidden functional patterns across diverse study populations from whole metagenome sequencing reads  
+
+[2]
+### 数据来源
+SRP245758
+### 特征：
+MP、MC  
+shotgun只有分组没有发表文章  
+meta:/data/zhiyu/save_220T_user/zhiyu/ncbi_data/metagenomic/SRP245758/filereport_read_run_PRJNA433459_SRP245758.xls
+### pipeline:
+/data2/zhiyu/software/squeezemeta/SRP245758/PJ1 #31  
+### 项目分析：
+~/data/projects/ncbi_shotgun/SRP245758/ancombc #30  
+
 
 ## MS
 [1]
