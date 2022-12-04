@@ -12,7 +12,6 @@ healthy individuals(27),rheumatoid arthritis(76), osteoarthritis(19);shandong,hs
 Stage-specific roles of microbial dysbiosis and metabolic disorders in rheumatoid arthritis   
 
 ## 16S rRNA gene sequencing of synovial fluid of individuals with rheumatoid arthritis
-[2]  
 ### 数据来源  
 86samples CRA005811  未下载-fq  
 meta:https://ngdc.cncb.ac.cn/gsa/browse/CRA005811  
@@ -24,7 +23,7 @@ Stage-specific roles of microbial dysbiosis and metabolic disorders in rheumatoi
 
 
 ## Parkinson’s disease
-
+[1]
 ### 数据来源  
 725samples SRP373424 PRJNA834801  
 meta:SRP373424(ncbi)
@@ -32,7 +31,7 @@ meta:SRP373424(ncbi)
 Group(Control[234],PD[491]),Age,Sex,饮食问卷等;USA,hsa  
 ### 已发表文章
 Metagenomics of Parkinson’s disease implicates the gut microbiome in multiple disease mechanisms
-
+[2]
 ### 数据来源
 ERP019674  
 meta来源：/data/zhiyu/save_220T_user/zhiyu/ncbi_data/metagenomic/ERP019674/ERP019674.ncbi.csv
@@ -50,6 +49,7 @@ Group(ncbi，PK、CO、DC)
 3 Carnelian uncovers hidden functional patterns across diverse study populations from whole metagenome sequencing reads
 
 ## MS
+[1]
 ### 数据来源  
 ERP115476  PRJEB32762  
 meta: ERP115476[ncbi]  
