@@ -31,3 +31,14 @@ meta:SRP373424(ncbi)
 Group(Control[234],PD[491]),Age,Sex,饮食问卷等;USA,hsa  
 ### 已发表文章
 Metagenomics of Parkinson’s disease implicates the gut microbiome in multiple disease mechanisms
+
+
+## MS
+### 数据来源  
+ERP115476  PRJEB32762
+meta: ERP115476[ncbi]  
+Processed data for 16S rRNA, metagenomics and metabolomics profiles, clinical data and diet data are available at Dryad (https://doi.org/10.7272/Q60C4T26
+### 特征：
+Group(Control[184],MS[173]),Age[7568样本],Sex,身高体重;USA,gut
+### 已发表文章
+Gut microbiome of multiple sclerosis patients and paired household healthy controls reveal associations with disease risk and course
