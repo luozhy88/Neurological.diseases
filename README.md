@@ -49,7 +49,7 @@ Group(ncbi，PK、CO、DC)
 2 Title: Gut microbiome-based secondary metabolite biosynthetic gene clusters detection in Parkinson’s disease 
 3 Carnelian uncovers hidden functional patterns across diverse study populations from whole metagenome sequencing reads  
 
-[2]
+[3]
 ### 数据来源
 SRP245758
 ### 特征：
