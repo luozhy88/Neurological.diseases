@@ -21,3 +21,13 @@ healthy individuals(86),shandong,hsa
 ### 已发表文章
 Stage-specific roles of microbial dysbiosis and metabolic disorders in rheumatoid arthritis 
 
+
+
+## Parkinson’s disease
+### 数据来源  
+725samples SRP373424 PRJNA834801  
+meta:SRP373424(ncbi)
+### 特征：
+Group(Control[234],PD[491]),Age,Sex,饮食问卷等;USA,hsa  
+### 已发表文章
+Metagenomics of Parkinson’s disease implicates the gut microbiome in multiple disease mechanisms
