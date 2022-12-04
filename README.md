@@ -30,7 +30,8 @@ meta:SRP373424(ncbi)
 ### 特征：
 Group(Control[234],PD[491]),Age,Sex,饮食问卷等;USA,hsa  
 ### 已发表文章
-Metagenomics of Parkinson’s disease implicates the gut microbiome in multiple disease mechanisms
+Metagenomics of Parkinson’s disease implicates the gut microbiome in multiple disease mechanisms  
+
 [2]
 ### 数据来源
 ERP019674  
