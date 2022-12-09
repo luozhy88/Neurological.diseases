@@ -1,7 +1,7 @@
 # Neurological.diseases
  
 ## Rheumatoid arthritis and osteoarthritis
-
+### Shotgun
   -  [ ]  CRA004348 shotgun Metagenomic sequencing of gut microbiome of patients with rheumatoid arthritis and osteoarthritis  
   -  meta https://ngdc.cncb.ac.cn/gsa/browse/CRA004348  122samples   未下载-fq 
   -  特征 healthy individuals(27),rheumatoid arthritis(76), osteoarthritis(19);shandong,hsa
@@ -18,7 +18,7 @@
 
 
 ## Parkinson’s disease
-
+### Shotgun
   -  [ ] SRP373424 PRJNA834801  
   -  meta SRP373424(ncbi) 725samples 
   -  特征 Group(Control[234],PD[491]),Age,Sex,饮食问卷等;USA,hsa  
