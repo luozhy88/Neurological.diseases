@@ -74,7 +74,7 @@ Group(Control[184],MS[173]),Age[7568样本],Sex,身高体重;USA,gut
 Gut microbiome of multiple sclerosis patients and paired household healthy controls reveal associations with disease risk and course
 
 ## AD
-	### shotgun
+### shotgun
 	Alzheimer signature in intestinal microbiome: Results from the AlzBiom study.
 	#### 数据来源 
 		ERP132305 PRJEB47976
@@ -84,20 +84,30 @@ Gut microbiome of multiple sclerosis patients and paired household healthy contr
 
 
 ### 16S
-
-		SRP357239	The Gut Microbiome of the Cognitively Impaired
+	
+  -  [ ] 数据来源 
+		SRP357239 The Gut Microbiome of the Cognitively Impaired
+	### 特征：
 		Age
 		USA,hsa,gut,PAIRED
-
-		SRP341087 PRJNA770746	Alzheimer's Oral and Gut Microbiome Vancouver Canada
-		Age,disease(Control,AD),type(gut,oral),sex,BMI,MoCA,edu,Donepeizl,Galantamine,Memantine,DiseaseDuration等
-		Canada,gut,PAIRED
-
-		SRP361900	The study of gut and oral microbiome in patients with Alzheimer's disease (AP09259730)
-		group(AD，control)，gut and oral 
-		SINGLE，Kazakhstan
-
-		SRP189712	Alzheimers Disease microbiome in elders ??
-		SRP389266		PRJNA862367 Effect of acupuncture on cognitive impairment and gut microbiota in patients with subjective cognitive decline
-		Group(SA,CON,Acup)
-		China,gut,PAIRED  
+	
+  -  [ ] 数据来源 
+	SRP341087 PRJNA770746	 Alzheimer's Oral and Gut Microbiome Vancouver Canada  
+	### 特征：
+	Age,disease(Control,AD),type(gut,oral),sex,BMI,MoCA,edu,Donepeizl,Galantamine,Memantine,DiseaseDuration等
+	Canada,gut,PAIRED
+	
+  -  [ ] 数据来源 
+	SRP361900	The study of gut and oral microbiome in patients with Alzheimer's disease (AP09259730)
+	### 特征：
+	group(AD，control)，gut and oral 
+	SINGLE，Kazakhstan  
+	
+	Alzheimers Disease microbiome in elders ??
+	SRP189712	
+	
+  -  [ ] 数据来源 
+	SRP389266	PRJNA862367 	Effect of acupuncture on cognitive impairment and gut microbiota in patients with subjective cognitive decline
+	### 特征：
+	Group(SA,CON,Acup)
+	China,gut,PAIRED  
