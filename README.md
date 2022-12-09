@@ -74,14 +74,13 @@ Group(Control[184],MS[173]),Age[7568样本],Sex,身高体重;USA,gut
 Gut microbiome of multiple sclerosis patients and paired household healthy controls reveal associations with disease risk and course
 
 ## AD
-
-### shotgun
-Alzheimer signature in intestinal microbiome: Results from the AlzBiom study.
-#### 数据来源 
-	ERP132305 PRJEB47976
-### 特征：
-	age,sex,BMI,ApoE4(0,1,NV)
-	Germany,hsa,gut
+	### shotgun
+	Alzheimer signature in intestinal microbiome: Results from the AlzBiom study.
+	#### 数据来源 
+		ERP132305 PRJEB47976
+	### 特征：
+		age,sex,BMI,ApoE4(0,1,NV)
+		Germany,hsa,gut
 
 
 ### 16S
