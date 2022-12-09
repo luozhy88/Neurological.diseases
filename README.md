@@ -75,16 +75,14 @@ Gut microbiome of multiple sclerosis patients and paired household healthy contr
 
 ## AD
 
+### shotgun
 
+	ERP132305 PRJEB47976
+	age,sex,BMI,ApoE4(0,1,NV)
+	Germany,hsa,gut
+	Alzheimer signature in intestinal microbiome: Results from the AlzBiom study.
 
-		shotgun：
-
-		ERP132305 PRJEB47976
-		age,sex,BMI,ApoE4(0,1,NV)
-		Germany,hsa,gut
-		Alzheimer signature in intestinal microbiome: Results from the AlzBiom study.
-
-		16S:
+### 16S
 
 		SRP357239	The Gut Microbiome of the Cognitively Impaired
 		Age
