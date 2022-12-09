@@ -1,6 +1,6 @@
 # Neurological.diseases
  
-## rheumatoid arthritis and osteoarthritis
+## Rheumatoid arthritis and osteoarthritis
 
   -  [ ]  CRA004348 shotgun Metagenomic sequencing of gut microbiome of patients with rheumatoid arthritis and osteoarthritis  
   -  meta https://ngdc.cncb.ac.cn/gsa/browse/CRA004348  122samples   未下载-fq 
@@ -53,7 +53,7 @@
 	Gut microbiome of multiple sclerosis patients and paired household healthy controls reveal associations with disease risk and course
 
 ## AD
-### shotgun
+### Shotgun
   -  [ ] ERP132305 PRJEB47976 Alzheimer signature in intestinal microbiome: Results from the AlzBiom study.
    -  特征  age,sex,BMI,ApoE4(0,1,NV);     Germany,hsa,gut
 
